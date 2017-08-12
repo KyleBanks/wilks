@@ -5,7 +5,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/KyleBanks/wilks)](https://goreportcard.com/report/github.com/KyleBanks/wilks) &nbsp;
 [![Coverage Status](https://coveralls.io/repos/github/KyleBanks/wilks/badge.svg?branch=master)](https://coveralls.io/github/KyleBanks/wilks?branch=master)
  
-A Go implementation of the [Wilks Formula](https://en.wikipedia.org/wiki/Wilks_Coefficient) for powerlifters.
+A Go implementation of the [Wilks Formula](https://en.wikipedia.org/wiki/Wilks_Coefficient) for comparing powerlifters across gender and weight class.
 
 ## Install
 
